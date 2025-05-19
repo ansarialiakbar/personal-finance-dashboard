@@ -69,7 +69,7 @@ A responsive and interactive personal finance dashboard built using **React**, *
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/personal-finance-dashboard.git
+git clone https://github.com/ansarialiakbar/personal-finance-dashboard.git
 
 cd personal-finance-dashboard
 
